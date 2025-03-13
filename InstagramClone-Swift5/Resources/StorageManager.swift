@@ -34,7 +34,3 @@ public class StorageManager{
         }
     }
 }
-
-public enum UserPostType{
-    case photo, video
-}
